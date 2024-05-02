@@ -1,4 +1,4 @@
-# BetterBugBounty
+# BetterBugBounty - Burp Suite 1.7 the OG hacker use
 
 ## Classic Tools for Legendary Bug Bounty Hunts
 
